@@ -5,6 +5,7 @@ This competition is hosted by NUS Statistics and Data Science Society. In this e
 
 **Team Members:**
 
+  * Danvern
   * Julian
   * James
 
